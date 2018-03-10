@@ -1,0 +1,30 @@
+.App-header {
+  background-color: teal;
+  height: 50px;
+  padding-top: 20px;
+  color: white;
+  padding-left: 20px;
+}
+
+.form {
+  padding-left: 20px;
+}
+
+.submit {
+  font-size: 18px;
+  padding: 4px;
+  width: 40px;
+  height: 40px;
+}
+
+.submit-input {
+  font-size: 18px;
+  padding: 2px;
+  width: 400px;
+  height: 34px;
+}
+
+.to-do {
+  font-size: 18px;
+  padding-left: 20px;
+}
